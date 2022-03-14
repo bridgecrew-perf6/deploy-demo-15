@@ -6,7 +6,7 @@ import {  ComponentTwo } from './components/ComponentTwo';
 function App() {
   return (
     <div>
-          <ComponentOne name="A"/>
+    <ComponentOne name="A"/>
           <ComponentOne name="B"/>
           <ComponentOne name="C"/>
           <ComponentOne name="D"/>
